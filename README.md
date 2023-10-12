@@ -1,5 +1,5 @@
-# shadowrun-5e-character-generator
-A 6,000+ line mess intending to generate legal and somewhat sensible Shadowrun 5th edition characters.
+# shadowrun-5e-random-character-generator
+A 6,000+ line mess intending to randomly generate legal and somewhat sensible Shadowrun 5th edition characters.
 ## Usage
 `python char_shadowrun_5e.py -f <output_file>`
 
